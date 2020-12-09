@@ -2,7 +2,7 @@
 
 Congratulations on completing the first week of your cybersecurity program!
 
-Throughout the week, we looked at maps and visualizations to get a taste of the cyber threat landscape in real-time.  While threat maps are fun, they are generally considered by cybersecurity professionals as visual eye candy and not a definitive representation of the threat landscape. Instead, most security professionals turn to prominent **reports**, **blogs**, and **research papers** to stay up to date on the field.
+We covered _a lot_ this week, especially in the Security Challenge activities. It begs the question: how do security professionals stay informed and updated on the threats, defenses, and infosec information necessary to be effective in the field? The answer is by reading and staying up to date on prominent **reports**, **blogs**, and **research papers**.
 
 - In your first homework, you will read through four prominent security reports and answer questions in order to get a basic understanding of the market. These reports contain a lot of information and some of the language might feel esoteric. 
 
@@ -10,7 +10,7 @@ Throughout the week, we looked at maps and visualizations to get a taste of the 
 
 - This assignment is report-heavy, but know that research and reporting are massively important to the work of a cybersecurity professional. 
 
-- In addition to the reports, there are two worksheets that you will fill out while reading through the papers. These should guide what you pay attention to while reading the reports, and should help you understand the research. 
+- In addition to the reports, there are three worksheets that you will fill out while reading through the papers. These should guide what you pay attention to while reading the reports, and should help you understand the research. 
 
 ### Instructions
 
@@ -47,7 +47,8 @@ Our Career Services team has talked with countless employers and knows exactly w
 
 With a combination of technical aptitude, valuable soft skills, and the ability to sell yourself well, you’ll be a competitive and appealing candidate to employers.
 
-- In Career Services, we empower you with the tools, resources, and support you need to become competitive in your market. To learn more, watch this [short video introduction to Career Services](https://www.youtube.com/watch?v=Tiuil_uXxG0&feature=youtu.be). 
+- In Career Services, we empower you with the tools, resources, and support you need to become competitive in your job market. To learn more about Career Services and the specific milestones you can complete to become competitive, please visit the [Cybersecurity Career Services page](https://sites.google.com/2u.com/careerservices-cyber/home)
+
 
 - In Bootcamp Spot, you will find a number of Career Services milestones. Read through the first milestone to learn more about Career Services, and how to become employer-ready and competitive. 
 

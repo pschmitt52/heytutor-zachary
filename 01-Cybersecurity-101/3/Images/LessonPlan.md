@@ -1,12 +1,12 @@
-## 1.3 Student Guide: Surveying the Cyberspace 
+## 1.3 Lesson Plan: Surveying the Cyberspace 
 
 ### Overview
 
-Today's class focuses on professional pathways. You will get an overview of cybersecurity certifications, domains, and professions, and an in-depth look at the Security+ exam.  
+Today's class focuses on professional pathways. Students will get an overview of cybersecurity certifications, domains, and professions, and an in-depth look at the Security+ exam.  
 
 ### Class Objectives
 
-By the end of class, you will be able to:
+By the end of class students will be able to:
 
 - Articulate roles and career pathways within the cybersecurity space.
 
@@ -14,33 +14,78 @@ By the end of class, you will be able to:
 
 - Articulate what the Security+ exam is and which infosec pathways benefit from the certification.
 
+
+### Instructor Notes
+
+- This class, especially the domain and career-oriented sections, will ask students to think about their desired career goals and areas of interest. It is completely fine if students do not have a specific career pathway that they're interested in. This boot camp will present a wide scope of cybersecurity skills and domains, allowing students to narrow down what interests and motivates them. 
+
+- Use any opportunity to provide personal insight and examples from your own career.  
+
+### Online Classroom Strategies 
+
+Refer to the following guidelines and best practices for conducting this class online: 
+
+- [Cybersecurity Online Classroom Strategies](../../../00-Teaching-Staff-Prework/OnlineStrategies.md)
+
+
 ### Slideshow
 
 The lesson slides are available on Google Drive here: [1.3 Slides](https://docs.google.com/presentation/d/1qHlbXDpN11AEsvj3i_r15Ib3XGvEhAs8B6HnxL57_N4/edit#slide=id.g4f80a3047b_0_990)
 
+- To add slides to the student-facing repository, download the slides as a PDF by navigating to File > "Download as" and choose "PDF document." Then, add the PDF file to your class repository along with other necessary files.
+
+- **Note:** Editing access is not available for this document. If you or your students wish to modify the slides, please create a copy by navigating to File > "Make a copy...". 
+
+### Time Tracker
+
+The time tracker is available on Google Drive here: [1.3 Time Tracker](https://docs.google.com/spreadsheets/d/1lRuc_70GJ5iT7A26_MRMgfwEYjRIO5mGpykjtycE6Pw/edit#gid=1047115118)
+
+### Student Guide
+
+Distribute the student-facing version of the lesson plan: [1.3 Student Guide](StudentGuide.md).
+
 ---
 
-### 01. Welcome and Today's Themes 
+### 01. Instructor Do: Welcome and Today's Themes (0:05)
 
-Welcome to the third day of class. We've only just scratched the surface of cybersecurity, but we have covered *a lot*. Today we'll continue to expand this scope by examining various cybersecurity domains, careers, and certifications. 
+Welcome students to the third day of class. We've only just scratched the surface of cybersecurity, but we have covered *a lot*. Today we'll continue to expand this scope by examining various cybersecurity domains, careers, and certifications. 
 
-- You shouldn't feel pressured to know exactly what career path you want to pursue after this boot camp. Once you are exposed to the various skills, concepts, and domains covered in the various modules of this course, you will have a better idea. For now, we'll start by discussing the high-level domains that exist in the cybersecurity industry. 
+- Explain that students shouldn't feel pressured to know exactly what career path they want to pursue after this boot camp. Once students are exposed to the various skills, concepts, and domains covered in the various modules of this course, they will have a better idea. For now, we'll start by discussing the high-level domains that exist in the cybersecurity industry. 
 
-- You will also have an opportunity to search various job platforms to get a sense of the current cybersecurity hiring landscape. 
+- Students will also have an opportunity to search various job platforms to get a sense of the current cybersecurity hiring landscape. 
 
 - Finally, we'll cover certifications. We will specifically look at the Security+ certification and answer a few practice questions. 
 
-### 02. Quick Review
+Before we dive in, let's review some concepts we covered over the past two days. 
 
-- In the last class, we discussed how nearly every single node of a web application—the webpage, server, database, even the users and administrators—can be targeted by a hacker. 
+### 02. Instructor Do: Quick Review (0:05)
 
-### 03. Instructor Do: Cybersecurity Domains
+Using the slideshow as a guide, review and discuss the topics from the previous lesson:
 
-Consider this quote from Tao Security's Richard Bejtlich on entering the cybersecurity field:
+- Discuss how nearly every single node of a web application—the webpage, server, database, even the users and administrators—can be targeted by a hacker. 
+
+- Then, see if students can name some different kinds of attacks that are used to target these nodes.
+
+  ![Every Aspect Is Vulnerable](Images/02-Recap_EveryAspect.png)
+
+- Cover some of the primary methods used by cybersecurity professionals to prevent hackers from compromising an application or its users.
+
+  ![List of Attacks](Images/02-Recap_Risks.png)
+
+
+### 03. Instructor Do: Cybersecurity Domains (0:15)
+
+Start this section with a quote from Tao Security's Richard Bejtlich on entering the cybersecurity field:
 
 - _Providing advice on “getting started in digital security” is similar to providing advice on “getting started in medicine.” If you ask a neurosurgeon he or she may propose some sort of experiment with dead frog legs and batteries. If you ask a dermatologist you might get advice on protection from the sun whenever you go outside. Asking a “security person” will likewise result in many different responses, depending on the individual’s background and tastes._ [Source: TaoSecurity](https://taosecurity.blogspot.com/2017/03/cybersecurity-domains-mind-map.html)
 
-The field of cybersecurity is so vast that it is often hard to get straightforward advice on how to enter the industry. This is because the advice of each professional will vary depending on their background and tastes.
+Explain to the class that the field of cybersecurity is so vast that it is often hard to get straightforward advice on how to enter the industry. This is because the advice of each professional will vary depending on their background and tastes.
+
+- Add specific examples around this if you can.
+
+  ![Domain Map](Images/Domain.png)
+
+Point out that this map shows various cybersecurity domains and roles, and discuss some of these domains. Feel free to modify or add to these descriptions with your own professional experiences and examples. Students want to hear about your perspective, and specific examples will add more color to these descriptions.
 
 - **Security architecture**: A unified security design that addresses the necessities and potential risks involved in a certain scenario or environment. It also specifies when and where to apply security controls. The design process is generally reproducible. ([Source](https://www.oreilly.com/library/view/effective-cybersecurity-a/9780134772929/))
 
@@ -68,11 +113,27 @@ Our program is primarily concerned with the technical aspects of cybersecurity, 
 
 - Throughout this course, we will discuss different frameworks and standards. It is important to understand how these affect the development and priorities of a security organization. It's also important to note that different industries follow different frameworks, which we'll discuss next week. 
 
-### 04. Activity: Cybersecurity Careers Research
+Ask students if they have any questions before proceeding.
+
+### 04. Student Do: Cybersecurity Careers Research (0:10)
+
+Explain the following to students:
+
+- In the next activity, we'll look at security careers and pathways in depth.
+
+- We'll start by conducting some career research.
+
+Send students the following activity file: 
 
 - [Activity File: Cybersecurity Careers Research](Activities/04_Careers/Readme.md)
 
-### 05. Facilitated Discussion: Cybersecurity Careers Research 
+### 05. Facilitated Discussion: Cybersecurity Careers Research (0:20)
+
+:bar_chart: Using [Zoom's](https://support.zoom.us/hc/en-us/articles/213756303-Polling-for-meetings) or [Slack's](https://slack.com/help/articles/229002507-Create-a-poll-) poll feature, conduct a comprehension check and evaluate how well students completed the activity. 
+
+
+Begin by asking students to share answers to the above questions on search terms, job descriptions, and skills and qualifications. Either throughout this discussion or after it, mention the following:
+
 It's important for you to assess your existing skills and job level:
  
 - Are you a career switcher or starter? Are you entering the security field for the first time? 
@@ -94,6 +155,8 @@ Similar job titles can have different skills and qualifications, so it's importa
 
   - Employers will often intentionally put more years of experience than is actually needed in order to avoid too many applicants. 
 
+Share the following statistics:
+
 - According to a [report from Frost and Sullivan and (ISC)²](https://blog.isc2.org/isc2_blog/2015/04/isc-study-workforce-shortfall-due-to-hiring-difficulties-despite-rising-salaries-increased-budgets-a.html), there will be more than 1.5 million unfilled cybersecurity positions by 2020. 
 
 - A similar report by [ISACA](https://www.silensec.com/downloads-menu/whitepapers/item/download/10_d3d9446802a44259755d38e6d163e820#:~:text=In%20their%202016%20report%5B2,open%20security%20jobs%20are%20qualified.) found that:
@@ -101,13 +164,16 @@ Similar job titles can have different skills and qualifications, so it's importa
   - Cybersecurity jobs grew 3 times as quickly as IT jobs between 2010-2014.  
   - 84% of organizations believe that 50% or fewer of applicants for their open security jobs are qualified.
 
-- Also, according to (ISC)², 87% of all cybersecurity professionals started their careers in a different field. This means that the majority of cybersecurity professionals have backgrounds similar to you.
+ 
+- Also, according to (ISC)², 87% of all cybersecurity professionals started their careers in a different field. This means that the majority of cybersecurity professionals have backgrounds similar to students.
 
-While it’s possible to jump between professional levels, in general the cybersecurity industry is looking for proven experience when hiring. If you’re new to the field, you will need to put in work to get started.
+Transition to a discussion of career pathways and explain that, while it’s possible to jump between levels, in general the cybersecurity industry is looking for proven experience when hiring. If you’re new to the field, you will need to put in work to get started.
 
 - However, it's important to note that because of the increased demand for security professionals, you can probably skip some of the years of required experience for certain jobs. We have had complete beginners in our program get jobs as network administrators, SOC analysts, and security analysts after completing the program. 
 
-Now discuss common job titles and where they fit in different pathways.
+![pathway](Images/pathway.png)
+
+- Point out that we'll now discuss common job titles and where they fit in different pathways.
 
   - **IT support specialists,** **computer help desk specialists**, and other similar titles are entry level jobs for all cybersecurity domains. 
     
@@ -146,9 +212,9 @@ Now discuss common job titles and where they fit in different pathways.
 
   - **Chief Information Officers (CIO)** and **Chief Information Security Officers (CISO)** are advanced managerial roles in cybersecurity. Certifications such as CISSP+ are often required.
 
-### 06. Using our Career Services Department 
+### 06. Instructor Do: Using our Career Services Department (0:05) 
 
-Our Career Services department is available for you from the first day of the program.
+Explain that the Career Services department is available for students from the first day of the program.
 
 - During class, you will tie concepts and skills in with career outcomes and roles. The Career Services team will help you do the practical, hard work of obtaining a new role or promotion.
 
@@ -160,26 +226,32 @@ Our Career Services department is available for you from the first day of the pr
 
   - One of the milestones, an updated, polished resume, will be a requirement in one of our later homework assignments, but you can submit this earlier if you'd like.
 
-  - Review the slides on Becoming Employer Competitive, Working with Your Profile Coach, and Working with Your Career Director. 
+  - Review the slides on Becoming Employer Competitive, Working with Your Profile Coach, and Working with Your Career Director.
 
-- This week's homework will contain more details on Career Services. If you do not know who your Career Director is, reach out to your Student Success Manager.
-
--------
-
-### 07. Break
+- Let students know that this week's homework will contain more details on Career Services. If students do not know who their Career Director is, they should reach out to their Student Success Manager.
 
 -------
 
-### 08. Cybersecurity Certifications
+### 07. Break (0:15)
 
-As the demand for cybersecurity careers grows, employers frequently look to certification as a measure of employee qualifications and training when hiring.
+-------
 
-- If you're serious about advancing your career in security, certifications will be an important step towards more opportunity, knowledge, and skills.  Certifications can be used across jobs and organizations.
+### 08. Instructor Do: Cybersecurity Certifications (0:10)
+
+Explain that as the demand for cybersecurity careers grows, employers frequently look to certification as a measure of employee qualifications and training when hiring.
+
+- Emphasize that if a student is serious about advancing their career in security, certifications will be an important step towards more opportunity, knowledge, and skills.  Certifications can be used across jobs and organizations.
 
 - Note that it is possible to get an entry level security job without any certifications. For example, an SOC analyst is a common job that often does not require any certifications. For career starters, many networking jobs such as systems or network administrators also do not require certifications. 
 
+:question: **Ask class**: Pose a few questions to the class to gauge their knowledge of and interest in certifications:
 
-Certifications are obtained through accrediting organizations. Here is a list of top providers, with a few of the certifications they offer:
+- Which certifications have you heard of?
+
+- Which certifications are you interested in pursuing?
+
+
+Explain that certifications are obtained through accrediting organizations. Here is a list of top providers, with a few of the certifications they offer:
 
 
 - CompTIA: Security+, PenTest+
@@ -192,14 +264,18 @@ Most of these organizations offer both introductory certifications and more adva
 
  - According to Wikipedia, as of early 2019 there are over 100 security certifications available to cybersecurity professionals. 
 
-  - Review the following list of certifications over Slack:
+  - Share the following list of certifications over Slack:
     - [Wikipedia: Computer Security Certifications](https://en.wikipedia.org/wiki/List_of_computer_security_certifications)
 
-- Today's class will focus only on the Security+ exam. Additionally, many of the topics in this course will help prepare you for this exam. 
+Have students spend a few minutes looking at the list. Point out that it identifies certification details related to specific criteria, such as issuing organization, focus, cost, and more. Also, point out how many specializations and associated certifications exist within cybersecurity.
 
-### 09. Introduction to Security+ Certification
+- Inform students that today's class will focus only on the Security+ exam. Additionally, point out that many of the topics in this course will help prepare them for this exam. 
 
-While this class explores the importance of the cybersecurity certifications, this course is *not* a test prep course. This course will offer an exam voucher and practice resources for the Security+ exam, but to be properly prepared to take the exam, you will have to learn other topics and practice extensively on their own. 
+### 09. Instructor Do: Introduction to Security+ Certification (0:10)
+
+Emphasize that while this class explores the importance of the cybersecurity certifications, this course is *not* a test prep course. This course will offer an exam voucher and practice resources for the Security+ exam, but to be properly prepared to take the exam, students will have to learn other topics and practice extensively on their own. 
+
+Review the following questions about the CompTIA Security+ certification:
 
 #### What is the Security+ certification?
 
@@ -217,11 +293,11 @@ While this class explores the importance of the cybersecurity certifications, th
    
    - Information security analyst
 
-As of August 2020, the average annual pay for an information security analyst in the United States was $99,944 per year. ([Source](https://www.ziprecruiter.com/Salaries/Information-Security-Analyst-Salary))
+Explain that as of August 2020, the average annual pay for an information security analyst in the United States was $99,944 per year. ([Source](https://www.ziprecruiter.com/Salaries/Information-Security-Analyst-Salary))
 
 #### What skills and knowledge areas are assessed in this certification?
 
-The following domains covered in the exam:
+Note the following domains covered in the exam:
   
   - Threats, attacks, and vulnerabilities
   
@@ -235,9 +311,9 @@ The following domains covered in the exam:
   
   - Cryptography and PKI (public key infrastructure)
 
-We will cover many aspects of these topics throughout the program. Today's class will specifically focus on the first domain. Throughout the course, we will emphasize which topics and skills covered in class are also relevant to the Sec+ exam.
+Explain that we will cover many aspects of these topics throughout the program. Today's class will specifically focus on the first domain. Throughout the course, we will emphasize which topics and skills covered in class are also relevant to the Sec+ exam.
 
-- You will still need to study topics in depth outside of class to prepare for the certification.
+- Emphasize that students will still need to study topics in depth outside of class to prepare for the certification.
 
 #### At which point in my career should I consider taking the Security+ exam?
 
@@ -260,7 +336,12 @@ Again, this boot camp is not a test prep course.
 
 - These topics are left out so you can spend the majority of the course learning the tools and concepts that will prepare you to succeed in the _largest number of jobs_, and to learn any networking/security concepts you encounter.
 
-### 10. Introduction to Security+ Certification Exam 
+Ask the class if they have any questions on the certification before you begin discussing the exam.
+
+
+### 10. Instructor Do: Introduction to Security+ Certification Exam  (0:10)
+
+Cover the following details about the exam: 
 
 - The test is made of 90 multiple-choice and performance-based questions.
 
@@ -269,6 +350,7 @@ Again, this boot camp is not a test prep course.
 - The passing score is 750 (on a scale of 100-900).
 
 - The cost of the exam is $339.00, but all students will receive a free exam voucher at the end of the program. 
+
 
 Breakdown of the domains by percent:
 
@@ -285,7 +367,9 @@ Cryptography and PKI                 | 12%      ||
 Total                                |100%      ||     
 ```
 
-There are two types of questions on the exams: multiple choice and performance based.
+Explain that there are two types of questions on the exams: multiple choice and performance based.
+
+* Review with the students the following examples of each question format.
 
 **Multiple Choice Example:**
 
@@ -304,9 +388,9 @@ There are two types of questions on the exams: multiple choice and performance b
 
 **Performance Based Example:**
 
-Performance-based questions (PBQ) test your ability to solve problems in a simulated environment. Unlike multiple-choice questions, they often entail more complicated tasks such as sequencing steps, choosing multiple answers from a set of options, or matching multiple concepts to their definitions. 
+Explain that performance-based questions (PBQ) test your ability to solve problems in a simulated environment. Unlike multiple-choice questions, they often entail more complicated tasks such as sequencing steps, choosing multiple answers from a set of options, or matching multiple concepts to their definitions. 
 
-- Below is an example PBQ question on security policy.
+- Walk the students through an example PBQ question around security policy.
 
   - Scenario: You are responsible for security at a small organization and have been tasked with implementing a security policy. Place the below steps of organizing a security policy in their appropriate order. Note that there are five options, but you need to choose four.    
   
@@ -319,7 +403,9 @@ Performance-based questions (PBQ) test your ability to solve problems in a simul
       - Review, test, and update procedures.
       - Implement appropriate controls. 
 
-    - On the actual exam, you will drag and drop the answer options in the appropriate order. 
+    - Point out to students that on the actual exam they will drag and drop the answer options in the appropriate order. 
+
+    - Collaboratively work with students on this problem and try to work towards the correct answer. Point out that we'll look at this topic in more depth in the next week. 
 
   - Correct answer:
       - Step 1: Obtain support and commitment from management.
@@ -327,7 +413,7 @@ Performance-based questions (PBQ) test your ability to solve problems in a simul
       - Step 3: Implement appropriate controls. 
       - Step 4: Review, test, and update procedures.
 
-- Below are other PBQs that students might encounter on the Sec+ exam. We'll cover many of these terms in later units.
+- Provide other examples of PBQs that students might encounter on the Sec+ exam and explain that we'll cover many of these terms in later units.
 
   1.  You are in charge of creating an incident response process for your company. Match the given actions (not mentioned in this example) with the correct phase of the IR plan.
 
@@ -339,7 +425,9 @@ Performance-based questions (PBQ) test your ability to solve problems in a simul
   3. You need to perform a business impact analysis (BIA) for a set of critical servers as part of a risk management push by your company. Organize the steps of a business impact analysis in their proper order. 
       - The steps are: identify threats, remediate risk, assign risk to each function or asset, identify critical functions or processes, identify assets and resources.
 
-Note the following about the CertMaster Practice tool:
+:warning: **Heads Up**: This section is focused on the CertMaster Practice tool, but students won't get access to this tool until later in the program. For now, point out the high level features of the tool as explained below:
+
+Explain the following about the CertMaster Practice tool:
 
 - It takes a question-first approach to test preparation. 
 
@@ -349,34 +437,51 @@ Note the following about the CertMaster Practice tool:
   
   - You can start by answering questions within any subcategory. The questions only include multiple-choice questions, not performance-based questions.
   
-### 11. Activity: Security+ Sample Questions
+### 11. Student Do: Security+ Sample Questions (0:15)
+
+Explain that in this section, students will answer practice questions taken from Domain 1 of the Security+ exam.
+
+Point out that the goal is to become familiar with exam questions. Students are not expected to know the answers at this point. They will have plenty of time to learn these topics and practice the questions throughout the course.
+
+Send students the following activity file:
 
 - [Activity File: Security+ Sample Questions](Activities/11_Sec_Questions/Unsolved/Readme.md)
 
-### 12. Activity Review: Security+ Sample Questions
 
+### 12. Instructor Review: Security+ Sample Questions (0:10)
+
+:bar_chart: Using [Zoom's](https://support.zoom.us/hc/en-us/articles/213756303-Polling-for-meetings) or [Slack's](https://slack.com/help/articles/229002507-Create-a-poll-) poll feature, conduct a comprehension check and evaluate how well students completed the activity. 
+
+
+Use the following solution guide to review the questions and provide extended explanations for each answer. 
+
+Send students the following solution file: 
 - [Solution File: Security+ Sample Questions](Activities/11_Sec_Questions/Solved/Readme.md)
 
-### 13. Homework Introduction
+### 13. Instructor Do: Homework Introduction (0:15)
 
-This week's homework has three parts:
+Explain that this week's homework has three parts:
 
-1. You are required to complete prework prior to the program. You should consider submitting the prework as the first part of this week's homework.
+1. Students are required to complete prework prior to the program. Students should consider submitting the prework as the first part of this week's homework.
 
-2. Following our discussion on career roles and pathways, you should write a brief summary of their current skills and what they would like to do after this program. Details are provided in the homework file.
+2. Following our discussion on career roles and pathways, students should write a brief summary of their current skills and what they would like to do after this program. Details are provided in the homework file.
 
-3. Most security professionals use prominent reports, blogs, and papers to stay up-to-date on the field. Since this is such a critical skill, this week's homework has you look into three prominent security reports in order to get a basic understanding of the market.
+3. Most security professionals use prominent reports, blogs, and papers to stay up-to-date on the field. Since this is such a critical skill, this week's homework has students looking into three prominent security reports in order to get a basic understanding of the market.
 
-The is a bit report-heavy, due to how important both research and reporting are to the work of a cybersecurity professional. Because of this, you will be given a series of worksheets to fill out while navigating the papers. 
+The is a bit report-heavy, due to how important both research and reporting are to the work of a cybersecurity professional. Because of this, students will be given a series of worksheets to fill out while navigating the papers. 
 
-If you have questions about due dates, consult Bootcamp Spot.
+If there are questions about due dates, have students consult Bootcamp Spot.
 
 
-### 13.  Wrap-Up
+### 13. Instructor Do: Wrap-Up (0:05) 
 
-If you feel overwhelmed by the amount of information covered, don't worry, you will become familiar with these concepts throughout the course. After you receive the CertMaster Practice tool, you will have a full year of access to the platform and can self-study topics at your own pace.
+If students feel overwhelmed by the amount of information covered, assure them that they will become familiar with these concepts throughout the course. After they receive the CertMaster Practice tool, they will have a full year of access to the platform and can self-study topics at their own pace.
 
-- While we did not do a deep dive into the other domains, we will touch on them throughout the units in this program, and will help you understand what to study for each. 
+- While we did not do a deep dive into the other domains, emphasize that we will touch on them throughout the units in this program, and we will help students understand what to study for each. 
+
+Remember to upload the [1.3 Student Guide](StudentGuide.md) and advise students to look it over and review concepts they need more time with. 
+
+Answer any students' questions before ending class. 
 
 ---
 
